@@ -1,3 +1,7 @@
+# CDK generated files (may contain AWS account IDs)
+cdk/cdk.out/
+cdk/cdk.context.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
